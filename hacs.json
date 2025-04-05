@@ -5,5 +5,5 @@
     "filename": "keepsmile_homeassistant-main.zip",
     "render_readme": true,
     "homeassistant": "2025.4.1",
-    "hacs": "2.05.0"   
+    "hacs": "2.00.0"   
 }
